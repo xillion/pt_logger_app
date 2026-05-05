@@ -1,0 +1,6 @@
+board:
+  name: pt_logger_l433_v1
+  full_name: PT_LOGGER_L433_V1
+  vendor: custom
+  socs:
+    - name: stm32l433xx

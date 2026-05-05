@@ -1,0 +1,15 @@
+identifier: pt_logger_l433_v1
+name: PT_LOGGER_L433_V1
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 64
+flash: 256
+supported:
+  - i2c
+  - gpio
+  - usb
+  - uart
+vendor: custom

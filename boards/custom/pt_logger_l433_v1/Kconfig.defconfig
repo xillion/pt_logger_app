@@ -1,0 +1,6 @@
+if BOARD_PT_LOGGER_L433_V1
+
+config BOARD
+	default "pt_logger_l433_v1"
+
+endif # BOARD_PT_LOGGER_L433_V1
